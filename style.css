@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+table{
+    width: 600px;
+    font-family: Arial;
+    font-size: 12px;
+
+}
+thead > tr{
+    background-color: #0D5188;
+    color: white;
+}
+.cabecalho{
+    background-color: #66C5E3;
+}
+.posicao{
+    background-color: silver;
+    text-align: center;
+
+}
+.cidade{
+    color: #0D5188 ;
+    font-weight: 600;
+}
+tr{
+    background-color: #C7E7F3;
+}
+.pop{
+    text-align: center;
+}
