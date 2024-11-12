@@ -31,3 +31,93 @@ tr{
 .pop{
     text-align: center;
 }
+.brasileiro{
+    font-family: Arial;
+    border: 1px solid black;
+    border-color: #DDDDDD;
+    border-collapse: collapse;
+    
+}
+.brasileiro th{
+    border: 1px solid black;
+}
+.libertadores{
+    color: #003366;
+    background-color: white;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.pre-libertadores{
+    color: #1398BE;
+    background-color: white;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.sulamericana{
+    color: #DE9800;
+    background-color: white;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.outros{
+    color: #CCCCCC;
+    background-color: white;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.rebaixados{
+    color: #C91B04;
+    background-color: white;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.titulo{
+    font-size: 13px;
+    color: #999999;
+    text-align: center;
+    font-weight: 600;
+    background-color: white;
+    border-color: #DDDDDD;
+}
+.nomes{
+    font-size: 14px;
+    color: #666666;
+    font-weight: 600;
+    text-align: left;
+    background-color: white;
+}
+.pontos{
+    background-color: #F7F7F7;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+}
+td{
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    width: 30px;
+    background-color: white;
+    border-width: 1px;
+    border-color: #DDDDDD;
+}
+.v ,.d ,.gc ,.percente{
+    background-color: #F7F7F7;
+}
+.siglas{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+    font-weight: 600;
+}
+.significados{
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+}
